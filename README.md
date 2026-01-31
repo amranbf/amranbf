@@ -1,4 +1,4 @@
-# Amran Feleke – Information Technology & Cybersecurity Labs
+# Amran Feleke – Information Technology & Cybersecurity 
 
 This repository contains my academic lab work and hands-on exercises from my Information Technology program at Marymount University, with a concentration in Cybersecurity. It is used to document what I have learned through coursework, labs, and practical system work using real tools and environments.
 
